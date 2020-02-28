@@ -1,5 +1,3 @@
-# Origin Repo
-
 If you want to try these exercises this is the original repo
 
 - https://github.com/rust-lang/rustlings
